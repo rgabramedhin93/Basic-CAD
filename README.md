@@ -20,3 +20,12 @@ I really like Onshape. I find that the keyboard shorcuts are so cool. Looking fo
 The second assignment we had to do was create a mount. It is a 120mm by 120mm rectange centered at the origin. It has 4 symmetric holes in the corners. 10mm in diameter and 20mm from each side. It also has another extruded circle in the middle which is 25mm. You also extrude is 8mm.
 ## Evidence
 [My Mount in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/a0eb90c4e207365fa6456037)
+## Image
+[My Mount in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/a0eb90c4e207365fa6456037)
+## Reflection
+This was my second part in Onshape. I was following along with Dr. Shields. I learned about
+1. Sketching
+2. Dimensions
+3. Extruding
+
+I'm starting to get better and knowing what to do with building a part on Onshape
