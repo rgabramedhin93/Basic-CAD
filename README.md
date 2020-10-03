@@ -31,3 +31,5 @@ This was my second part in Onshape. I was following along with Dr. Shields. I le
 
 I'm starting to get better and knowing what to do with building a part on Onshape
 # Fork
+## Description
+For this part you sketch a circle that is 80mm in diameter. Then you have to extrude it 75mm. After that you would have to put fillets. A 15mm fillet and a 1mm fillet. Then you would do a 4mm fillet which the Tangent Propagation takes care of. You then sketch 2 circles that are 15mm and 20mm concentric on the base circle. After that you apply a 1mm chamfer. Then you just extrude through it all.
