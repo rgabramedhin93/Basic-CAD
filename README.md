@@ -17,3 +17,4 @@ This was my first part made in Onshape. I was following along with Dr. Shields w
 
 I really like Onshape. I find that the keyboard shorcuts are so cool. Looking forward to be creating new things.
 # Mount
+The second assignment we had to do was create a mount. It is a 120mm by 120mm rectange centered at the origin. It has 4 symmetric holes in the corners. 10mm in diameter and 20mm from each side. It also has another extruded circle in the middle which is 25mm. You also extrude is 8mm.
