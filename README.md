@@ -44,11 +44,17 @@ This was my 3rd part that I created on Onshape. Again I followed along with Dr. 
 - Extrude
 
 This part is one of many parts I still have to create. But also this part was kind of challenging for me. I am getting the hang of Onshape and I really think it is awesome.
-# Wheel Tire
+# Tire
 ## Description
 For the tire you would have to create dimensions. You would have a dimension from the trapezoid to the vertical construction line and from the trapezoid to the horizontal construction line. You would make them symmetric. You would revolve it and then add 8mm fillets.
 ## Evidence
 [My Tire in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/9c416a24d521ff2cf7171884)
 ## Image
 ![Tire](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-05%20at%204.49.55%20PM.png)
+## Reflection
+The Tire was my 4th part made and I started to follow along with Mr. Helstetters instructions, I worked with it well but when I got stuck I went to Dr. Shields video for a little help. I learned how to
+- I learned how to Revolve a sketch
+- Learned how to connect dimensions to the vertical and horizontal construction lines
+
+This part was actually kind of easy, and I'm looking forward to building the other parts of the caster
 
