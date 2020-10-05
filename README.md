@@ -22,7 +22,7 @@ The second assignment we had to do was create a mount. It is a 120mm by 120mm re
 ## Evidence
 [My Mount in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/a0eb90c4e207365fa6456037)
 ## Image
-![alt text](image.jpg)
+![Mount](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-05%20at%205.17.05%20PM.png)
 ## Reflection
 This was my second part in Onshape. I was following along with Dr. Shields. I learned about
 1. Sketching
