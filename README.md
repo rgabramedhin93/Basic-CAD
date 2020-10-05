@@ -45,3 +45,9 @@ This was my 3rd part that I created on Onshape. Again I followed along with Dr. 
 
 This part is one of many parts I still have to create. But also this part was kind of challenging for me. I am getting the hang of Onshape and I really think it is awesome.
 # Wheel Tire
+## Description
+For the tire you would have to create dimensions. You would have a dimension from the trapezoid to the vertical construction line and from the trapezoid to the horizontal construction line. You would make them symmetric. You would revolve it and then add 8mm fillets.
+## Evidence
+[My Tire in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/9c416a24d521ff2cf7171884)
+## Image
+![alt text](image.jpg)
