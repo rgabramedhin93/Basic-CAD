@@ -44,3 +44,4 @@ This was my 3rd part that I created on Onshape. Again I followed along with Dr. 
 - Extrude
 
 This part is one of many parts I still have to create. But also this part was kind of challenging for me. I am getting the hang of Onshape and I really think it is awesome.
+# Wheel Tire
