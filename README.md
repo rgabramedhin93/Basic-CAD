@@ -50,5 +50,5 @@ For the tire you would have to create dimensions. You would have a dimension fro
 ## Evidence
 [My Tire in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/9c416a24d521ff2cf7171884)
 ## Image
-![Tire](https://github.com/rgabramedhin93/Basic-CAD/commit/4a25b92ef76c2387c6c387a8948072e56e060b90)
+![Tire](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-05%20at%204.49.55%20PM.png)
 
