@@ -6,7 +6,7 @@ My first assignment I had to do was to create a caster base. The Base's dimensio
 #### Evidence
 [My base in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/54b7e9e95570922b32e8a39d)
 ##### Image of the Base
-[My base in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/54b7e9e95570922b32e8a39d)
+![alt text](image.jpg)
 ###### Reflection
 This was my first part made in Onshape. I was following along with Dr. Shields which made it easy. I learned about
 1. Sketching
