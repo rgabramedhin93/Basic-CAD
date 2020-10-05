@@ -36,7 +36,7 @@ For this part you sketch a circle that is 80mm in diameter. Then you have to ext
 ## Evidence
 [My Fork in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/e71f3a2ca3f5195d1ea488c2)
 ## Image
-![alt text](image.jpg)
+![Fork](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-05%20at%205.22.38%20PM.png)
 ## Reflection
 This was my 3rd part that I created on Onshape. Again I followed along with Dr. Shields and created a fork part. I learned how to
 - Fillet
