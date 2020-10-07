@@ -63,6 +63,13 @@ For the wheel you had to create 3 rectangles on a front plane. You would have to
 ## Evidence
 [My Wheel in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/cbf95d443f4e74da8a5d4827)
 ## Image
-![wheel](image.jpg)
+![wheel](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-07%20at%205.02.01%20PM.png)
+## Reflection
+The wheel was my 5th part and it was pretty hard, I had to restart 3 times because I just kept messing up. I followed along with Mr. Helmstetter today and like Dr. Shields it came out perfectly. I learned how to
+- Put in Spokes
+- Make sides coincidental
+- Make a circular pattern
+
+Overall it was cool making this part and now there are only a couple left to build.
 
 
