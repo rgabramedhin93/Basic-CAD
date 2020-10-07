@@ -57,4 +57,12 @@ The Tire was my 4th part made and I started to follow along with Mr. Helstetters
 - Learned how to connect dimensions to the vertical and horizontal construction lines
 
 This part was actually kind of easy, and I'm looking forward to building the other parts of the caster
+# Wheel
+## Descriptiom
+For the wheel you had to create 3 rectangles on a front plane. You would have to add dimensions, add construction lines, make them symmetrical and make them coincidental. You would have to revolve the sketch using the horizontal axis and also add spokes to the wheel.
+## Evidence
+[My Wheel in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/cbf95d443f4e74da8a5d4827)
+## Image
+![wheel](image.jpg)
+
 
