@@ -87,4 +87,5 @@ I had to use the Use option on my wheel and select the 2 circles on the face of 
 [Bearing](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/cbf95d443f4e74da8a5d4827)
 ## Image
 ![alt text](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-12%20at%204.37.10%20PM.png)
-
+## Reflection
+This was my 8th part that I did. All I had to do was just add a bearing to my wheel on the face of the extrusion. Really easy, didn't take anytime at all.
