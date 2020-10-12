@@ -71,5 +71,12 @@ The wheel was my 5th part and it was pretty hard, I had to restart 3 times becau
 - Make a circular pattern
 
 Overall it was cool making this part and now there are only a couple left to build.
+# Axle and Collar
+## Description
+For this part you had to made 2 circles in a front plane sketch and put dimensions on them. You would extrude on both sides of the circles to create a tube like shape. On a side of the extrusion you would make another 2 cirles with an extrusion on the axle. You would mirror that so it would be the same on the other side. After that you would create a sketch of the collar and extrude that.
+## Evidence
+[My Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/fc477908e6751f1cfff8cd98)
+## Image
+
 
 
