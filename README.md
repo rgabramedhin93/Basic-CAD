@@ -89,3 +89,10 @@ I had to use the Use option on my wheel and select the 2 circles on the face of 
 ![alt text](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-12%20at%204.37.10%20PM.png)
 ## Reflection
 This was my 8th part that I did. All I had to do was just add a bearing to my wheel on the face of the extrusion. Really easy, didn't take anytime at all.
+# Sub Assembly
+## Description
+For the Sub Assembly you would import your wheel and tire and fasten mate the wheel with the origin. You would then Mate the tire with the wheel. Then you import 2 bearings and the axle and do the revolute mate with the axle into the wheel and then mate the bearings with the axle.
+## Evidence
+[Sub-Assembly](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/999c5ed6e33f71e7baf64fe1)
+## Image
+![alt text](image.jpg)
