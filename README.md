@@ -98,3 +98,10 @@ For the Sub Assembly you would import your wheel and tire and fasten mate the wh
 ![alt text](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-19%20at%204.24.00%20PM.png)
 ## Reflection
 The sub assembly is the pre assembly before the final assembly. In this assembly I put together the wheel, the tire, the axle, and the 2 bearings.
+# Final Assembly
+## Description
+For the final assembly you would put together the parts that you made in the sub assembly and mate them with the base and mount and fork. And you would also add bearings, nuts, screws.
+## Evidence
+[Final Assembly](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/0526b53d9a31ddef950654e8)
+## Image
+![alt text](image.jpg)
