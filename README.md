@@ -104,4 +104,6 @@ For the final assembly you would put together the parts that you made in the sub
 ## Evidence
 [Final Assembly](https://cvilleschools.onshape.com/documents/efb5fd0ad2c81a838d406cca/w/68ccbf6c7180e6312e6724d4/e/0526b53d9a31ddef950654e8)
 ## Image
-![alt text](image.jpg)
+![alt text](https://raw.githubusercontent.com/rgabramedhin93/Basic-CAD/main/Screenshot%202020-10-28%20at%209.15.29%20PM.png)
+## Reflection
+The final assembly is the end of building the caster and you would put together all the parts that you created to make the final product of the caster. I really enjoyed making it and I'm looking forward to build other things.
